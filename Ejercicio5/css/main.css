@@ -1,0 +1,25 @@
+
+.border{
+	
+	padding:5px 0px;
+	margin:10px;
+	border:solid black;
+	border-radius:20px;
+}
+
+p{
+	margin:10px;
+	text-align:justify;
+}
+
+img{
+	border-radius:20px;
+}
+
+.circulo{
+border-radius:100px;
+height:150px;
+width:150px;
+display:block;
+margin:auto;
+}
